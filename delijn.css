@@ -1,0 +1,19 @@
+body{
+	background: white;
+	padding: 0% 10% 5% 23%;
+}
+
+iframe {
+	height: 35em;
+	width: 800px;
+	float: left;
+	border: none;
+}
+
+h2 {
+	font-size: 3em;
+	float: right;
+	margin-right: 23%;
+	margin-bottom: 0%;
+	font-family: 'Droid Sans', sans-serif;
+}
